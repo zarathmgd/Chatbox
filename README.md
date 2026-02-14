@@ -24,7 +24,7 @@ Le dépôt inclut un fichier `database_schema.sql` comprenant :
 
 ## ⚙️ Installation et Configuration
 1. **Clonage :** Cloner le dépôt sur votre serveur local (WAMP, XAMPP ou Laragon).
-2. **Base de données :** Importer le fichier `database_schema.sql` dans votre serveur MySQL via phpMyAdmin.
+2. **Base de données :** Importer le fichier `chatbox.sql` dans votre serveur MySQL via phpMyAdmin.
 3. **Configuration :** Vérifier que les paramètres de connexion à la base de données dans les fichiers PHP correspondent à votre environnement local (`mysqli_connect`).
 4. **Lancement :** Accéder à l'application via votre navigateur à l'adresse `localhost` en ouvrant la page `connexion.php`.
 
