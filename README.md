@@ -10,9 +10,9 @@ Ce projet est une application de messagerie fonctionnelle développée dans le c
 * **Gestion des messages :** Possibilité pour l'utilisateur de supprimer ses propres messages, déclenchant le processus d'archivage automatique côté serveur.
 
 ## 🛠️ Technologies utilisées
-* **Langage :** PHP natif.
+* **Frontend :** HTML5, CSS3.
+* **Back-end :** PHP.
 * **Base de données :** MySQL (MariaDB).
-* **Frontend :** HTML5, CSS3 (Design personnalisé avec la police Montserrat).
 
 ## 📁 Structure de la Base de Données
 Le dépôt inclut un fichier `database_schema.sql` comprenant :
